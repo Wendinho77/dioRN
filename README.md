@@ -1,6 +1,4 @@
-# dioRN
-# DIO 
-# Introdução ao React Native
+# Introdução ao React Native - DIO 
 ![Captura de tela 2022-08-02 104104](https://user-images.githubusercontent.com/105667364/182390878-e4d05fbd-d056-4b12-ae34-6de9aaf69d62.jpg)
 
 
