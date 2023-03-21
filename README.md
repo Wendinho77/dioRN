@@ -7,10 +7,12 @@
   - O que é react-native?
   - O que é cross-platform?
   - Origem do RN
+  
 - Documentação:
   - Componentes
   - API
   - Comunidade (Blog)
+  
 - Setup
   - Instalação do Chocolatey
   - Node
@@ -19,9 +21,11 @@
   - Android Studio
     - Donwload android S
     - Criar um avd (Android Virtual Device)
+    
 - Criação do projeto
   - Uso do React Native CLI
-  - Estrutura de pasta 
+  - Estrutura de pasta
+  
 - Projeto Profile
   - View
   - Text
